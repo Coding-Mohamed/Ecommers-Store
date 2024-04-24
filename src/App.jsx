@@ -1,6 +1,6 @@
 import { BrowserRouter as Router } from "react-router-dom";
 import AppContent from "./AppContent";
-import store from "./store";
+import store from "./store/index";
 import { Provider } from "react-redux";
 
 const App = () => {
