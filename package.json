@@ -29,5 +29,10 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
     "vite": "^5.0.8"
-  }
+  },
+  "description": "A sleek e-commerce platform crafted with React, offering a delightful shopping experience. Explore products, manage your cart, and effortlessly place orders.",
+  "main": "vite.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
